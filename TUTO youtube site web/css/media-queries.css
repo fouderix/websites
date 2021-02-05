@@ -1,0 +1,8 @@
+@media (max-width: 5in){
+    .img-page-1{
+        width: 50%;
+    }
+    .title{
+        font-size: 50%;
+    }
+}

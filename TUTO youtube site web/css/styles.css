@@ -1,0 +1,43 @@
+.title{
+    color: orange;
+    margin-left: 45%;
+    font-size: 100px;
+}
+.link{
+    text-decoration: none;
+    font-size: 50px;
+    color: red;
+    margin: 20%;
+}
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a{
+    color: red;
+    background-color: white;
+    transition: 0.3s all;
+}
+div.boite_1{
+    background-color: blue;
+}
+div.boite_1 div.title_1{
+    background-color: aqua;
+    background-size: 50%;
+}
+div.title_2{
+    background-color: yellow;
+}
+div.img_and_link{
+    margin-left: 2em;
+}
+#copyright{
+    opacity: 20%;
+    font-size: 10px;
+}
